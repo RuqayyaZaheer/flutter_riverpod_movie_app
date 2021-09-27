@@ -1,4 +1,4 @@
-# movie_riverpod
+# movie_app_with_riverpod
 
 A new Flutter project.
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2021-09-26 at 19 02 40](https://user-images.githubusercontent.com/90692478/134803273-2a119590-0666-4f9c-978c-4ae3e8856c85.png)
