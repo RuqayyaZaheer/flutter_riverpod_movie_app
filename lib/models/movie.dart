@@ -10,7 +10,7 @@ class Movie {
       releaseDate;
 
   final bool? isAdult;
-  final num? rating;
+  final String? rating;
 
   Movie({
     this.name,
